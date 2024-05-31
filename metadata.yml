@@ -1,0 +1,16 @@
+---
+:id: 241457927
+:submitters:
+- :name: Chi Zhang
+  :email: chz011@ucsd.edu
+- :name: Ada Qi
+  :email: z3qi@ucsd.edu
+- :name: Fangyu Zhu
+  :email: fazhu@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-03-24 06:35:07.098150000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-03-23 23:35:07.098150000 Z
+:status: processed
+:score: 400.0
